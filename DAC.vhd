@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company:		Open Power Systems 
--- Engineer:	Jino M. Pattery 
+-- Engineer:		Jino M. Pattery 
 -- 
 -- Create Date:		11:38:38 04/23/2016 
 -- Design Name:		Grid Connected Invereter 
@@ -50,7 +50,3 @@ end if;
 end process;
 
 end Behavioral;
-
-
-
-
